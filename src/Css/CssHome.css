@@ -1,0 +1,9 @@
+.Home{
+    background-color: rgb(178, 92, 139);
+    background-image: url(../images/home.jpg);
+    margin: 0%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 90vh;
+    width: 100%;
+}
